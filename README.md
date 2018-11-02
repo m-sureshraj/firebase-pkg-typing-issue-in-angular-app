@@ -13,3 +13,5 @@ Demo application to reproduce the issue - https://github.com/firebase/firebase-j
 * run `npm install`
 * run `npm start`
 * you will see the following error message in the terminal 
+
+![error-msg](./src/assets/error-message.png)
